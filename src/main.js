@@ -8,7 +8,6 @@ var header = [
   "W co najmniej ilu imprezach trzeba uczestniczyć?",
   "Honorowy Wychowanek Pałacu Młodzieży nie ma prawa do:",
   "Ile osób max. wchodzi w skład Komisji Odznaki?",
-  "Dyrektorem PM jest:",
   "W jakim dokumencie zapisuje się zdobywców złotej odznaki?",
   "Jak długi staż pałacowy jest wymagany?",
   "Ile jest stopni odznaki?",
@@ -27,13 +26,6 @@ var answers = [
     "audiencji u dyrekcji"
   ],
   ["7", "10", "8", "9", "8"],
-  [
-    "Urszula Wacowska",
-    "Beata Szydło",
-    "Ewa Kopacz",
-    "Rafał Trzaskowski",
-    "Urszula Wacowska"
-  ],
   [
     "W złotej księdze odznaki",
     "W dzienniku ustaw RP",
